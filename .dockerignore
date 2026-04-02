@@ -1,0 +1,8 @@
+/vendor
+/laravel/vendor
+/node_modules
+/.git
+/storage/*.key
+/public/hot
+/public/storage
+.env
